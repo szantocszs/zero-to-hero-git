@@ -1,1 +1,2 @@
 This is the contents of A!!!
+This is a new line of changing 
